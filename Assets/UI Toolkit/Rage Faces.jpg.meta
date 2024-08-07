@@ -1,0 +1,2352 @@
+fileFormatVersion: 2
+guid: df54aaa5996173d46a64023f80bf82ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rage Faces_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0c4c50c009154c871fee55f28b092
+      internalID: -477225403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 416
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a0109eec7e0a845b3f09ba245d4ccc
+      internalID: -130569989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 416
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970889e37623a914a8390358f2a34c56
+      internalID: -237978561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 416
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd5aeec7f398349a5544139b56e2af
+      internalID: -87553976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 411
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc83c5ffc0f9a49806af07d5c7f316
+      internalID: 1395581977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 410
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e75fb5ac97954c9c26f9dd311321e
+      internalID: -821081816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 411
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9395512f30184ae408bff30a4132d9f5
+      internalID: 1636116930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 412
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a536f4fbf5d5a944943c47e0f167c40
+      internalID: 1335235067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 414
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785358889a44414692829b0ebcef44f
+      internalID: -2123161951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 416
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce8fd104b9abe4ebc71752733e9056
+      internalID: 450261185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 416
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e121848b6d1f954a9b671331f594919
+      internalID: 709916616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 416
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385155ef080450b4a8592d1c500b1b0b
+      internalID: 1276599864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 416
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42342f5266716074b9fde871d0e70858
+      internalID: -1159348016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0997668cf986aa46b44f07e8db698b1
+      internalID: -1124268061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 352
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f87f24f478fa44971fa05254ba5a2
+      internalID: 1822070878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 353
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b71f0ed7c260541a7b560421e27365
+      internalID: -1819954252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 355
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429dd6c65d191d54082e3dae3eb7d41f
+      internalID: -1956026422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 359
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6acbe1880d2e943baae7cc918fc3d7
+      internalID: 419003048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 356
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ebf50bee8403499f56afd9514df71
+      internalID: 1301207053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 360
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0296a3e6515ff4d84e9c99a0f7348b
+      internalID: 649132925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 360
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429a629cdeceb324c93210d47b800304
+      internalID: -1838110318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 360
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d192ca34d98e934c90990858c6b68e6
+      internalID: 2115521649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 360
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2f56fd9877dd438325839ab7339ff
+      internalID: -774448688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 361
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754fbf460c0129348b2fd754e1d79826
+      internalID: -200995659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 362
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434470e0004284c4f805ca5c4a295f29
+      internalID: -1246848197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab30b559f2cba9428368cdda5dddd96
+      internalID: 718068097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 304
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e6460364dc4644ae1c744bb272c40
+      internalID: 48183424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 304
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a9cff53723ce4e90fe6df59bd8201
+      internalID: -1601276278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 304
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a85f993bbe43148b358310b04bd941
+      internalID: -295691800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 304
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be37e7e9351864d81d387fb1de263c
+      internalID: 1948482632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 310
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864c6dbec60242408e22ff338e45bf5
+      internalID: 576026808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 314
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d9267d926f28498bb23e12e867b92
+      internalID: -1273170385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27149edfb66d76449e1f5dcc297452a
+      internalID: 2194273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ed252a2ca7164eb4135af6f17f81d
+      internalID: -906900858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 313
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd293581a4fbc6a4987374c93a71f8e2
+      internalID: -1344077736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_36
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 314
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5a163573529e44859027ce80f3925
+      internalID: 804960652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 314
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad091a52ced51448e4b278ac05e213
+      internalID: -618631487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 314
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6a4757815fb44daa66c588b375bc4
+      internalID: -1173865584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d4dbfc492bec418f84c75a7c1a27a
+      internalID: -1861157358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 253
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2bb1831c75363408bd1a7bc3790f34
+      internalID: -609355945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3e290533ef878419fac3797792131a
+      internalID: -1684215972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 258
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398f824a4b34424a8ae30d9293c6340
+      internalID: 1591018832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 255
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6c35111d38d04449f974dc7124ab8f
+      internalID: 853673535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_45
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 255
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d8c27bf21f8d4789e3d905627d4b1
+      internalID: 225657960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 255
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62388835cfcd8047bd6df240c422b43
+      internalID: 2019069632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 258
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7582c472d78bad543a05355690d7dc5e
+      internalID: -78274160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_48
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 257
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd698cedeed56fe44add828be10fead7
+      internalID: -924260473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_49
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 259
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b5cc98d4921cf42a549b74a8ea5b64
+      internalID: -1401273275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 253
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab8d4a98d19894883f89608ec3a910
+      internalID: -124019417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_51
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 262
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd70d478da33448b14059086b9c18d
+      internalID: -1144056843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c92a9cb3302d67468788684b25445a3
+      internalID: 646946615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 197
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc1fa0620ee834592143d88d4cf84a
+      internalID: -1925101420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f7cf7b9c970c144924960136a31e3a
+      internalID: -339259854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a9fddbff7ebf4381544d2e1e49fd4
+      internalID: 535755069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 198
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1774f708eba5142b24c54b64fd74c8
+      internalID: 1327411739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 198
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6276e822259ae43ba1fec6d8ade670
+      internalID: 1752082155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d91a3f6cb72a429e7127b557544a0
+      internalID: 119490292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 198
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e85169b4466234b8c64c7cdf449f74
+      internalID: -1694510552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 198
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48ccefb91ca4c3478583b0f519a6a55
+      internalID: 1403154369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_61
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 197
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46159276685cd6045af0df25da2d8ab6
+      internalID: -1835845714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_62
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 198
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a820640a62f8f84bbeb6cc97329c472
+      internalID: -382249057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_63
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 198
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ae973585b3c4418a18f3da1877b09
+      internalID: -1619000368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_64
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 197
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c514ac39b1f8554bb9175c16679e0e6
+      internalID: -1644416288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a6304edb260f842ad4ee1d2111f50a
+      internalID: -445489294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_66
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 134
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58175a47a10aa84fb371c0b015ea731
+      internalID: 963562426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410585dc077630f489c40f0fafd2d961
+      internalID: -1104263498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 141
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923fa15ee62c3de49a4786da22a31f67
+      internalID: 11582396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd37bfe8131ed14a9d9f97417381a65
+      internalID: -436871016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 143
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08db1642d5b78734ea1fa20ccefc9ca2
+      internalID: -124416697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 138
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a635581234b408a4e8308349d844a947
+      internalID: -1948927926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_72
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 137
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea9f8f1c680d345acde91b22f43b7a
+      internalID: -2130087204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_73
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 139
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df77c26bc6a534b9ac49611d51a042
+      internalID: -1365278567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 139
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8939a73e7c0b4bb02612c714d5972
+      internalID: 340621673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 143
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8b8243e8ed5e4089cb67f0fdb2245
+      internalID: -1405307154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_76
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 143
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b364aed150fb439eebff4ec739d08
+      internalID: 550270791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_77
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 146
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc2b9bdbba14949b31182966d48a35
+      internalID: 821104475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b67e7cceae5b4f9177b54fc3da6ea
+      internalID: 560619605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 77
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c7cc5889eef8a4e99d7ff85a9fb461
+      internalID: -151377840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_80
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 78
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e407a5a5f4b28348b0f6199078c209f
+      internalID: 2108159439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf1ea1b4af21f45a4ce7ca11c0a659
+      internalID: -255450507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 78
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014588e1907b9946b431b31a56bbd33
+      internalID: 1516619259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 81
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dbc6fba2afcf34c9ca3cf4371568f8
+      internalID: 979350553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_84
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 71
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061d7ced697333408905da50ff2f53e
+      internalID: 473936867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_85
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 78
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779672bc88f92474c9f5da23a5c4f608
+      internalID: -937716699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_86
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 70
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac09ba20d4f9254b8ce530018f5cc62
+      internalID: 467185480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_87
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 77
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8faab750b956a40a330841555893bd
+      internalID: -1124434221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_88
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 70
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52af0e155400334ca194624d4240f35
+      internalID: -1068100296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_89
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 74
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167ae5b52fb7594491539d4a3301b8a
+      internalID: 1950067992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_90
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 73
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143fc92a81e79e44ad8dd42240b32d8
+      internalID: -1030978923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fddfbb3aab1ba847b337309fcfdbf59
+      internalID: 1514058648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71aa11080bfe084296a67e6670c6734
+      internalID: -648359464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 8
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f248333c773734182ca850c0dd7a6a
+      internalID: 574304117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_96
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 6
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622ab283fa21c04b9f50c10cbd5e3bd
+      internalID: -394778839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 8
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8090aef6294d204cb2486d669ce5b27
+      internalID: 598423006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_98
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 9
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4333a57fb591142876ec6edd31436b
+      internalID: 1758406615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_99
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 14
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1c4350dda78f4d91c80b5aa27ed07
+      internalID: -345208189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_100
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 14
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785217891735804db2e9e0da0b00486
+      internalID: -142712763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_101
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6444d9c3b52940a69f99863dcebb9
+      internalID: -251477895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_102
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 12
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356da2a2e11107143b772457f75ad487
+      internalID: -230931951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_103
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 14
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d784dec6720bc5418cddbcee8c499c0
+      internalID: -414290224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rage Faces_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 200
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d4d2555f3d2a46abebc5633c3b16b
+      internalID: -1351871163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7de90ef90c615d043aa70b7d42450c7a
+    internalID: -63578824
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rage Faces_0: -477225403
+      Rage Faces_1: -130569989
+      Rage Faces_10: 709916616
+      Rage Faces_100: -142712763
+      Rage Faces_101: -251477895
+      Rage Faces_102: -230931951
+      Rage Faces_103: -414290224
+      Rage Faces_11: 1276599864
+      Rage Faces_12: -1159348016
+      Rage Faces_13: -1124268061
+      Rage Faces_14: 1822070878
+      Rage Faces_15: -1819954252
+      Rage Faces_16: -1351871163
+      Rage Faces_17: -1956026422
+      Rage Faces_18: 419003048
+      Rage Faces_19: 1301207053
+      Rage Faces_2: -237978561
+      Rage Faces_20: 649132925
+      Rage Faces_21: -1838110318
+      Rage Faces_22: 2115521649
+      Rage Faces_23: -774448688
+      Rage Faces_24: -200995659
+      Rage Faces_25: -1246848197
+      Rage Faces_26: 718068097
+      Rage Faces_27: 48183424
+      Rage Faces_28: -1601276278
+      Rage Faces_29: -295691800
+      Rage Faces_3: -87553976
+      Rage Faces_30: 1948482632
+      Rage Faces_31: 576026808
+      Rage Faces_32: -1273170385
+      Rage Faces_33: 2194273
+      Rage Faces_34: -906900858
+      Rage Faces_35: -1344077736
+      Rage Faces_36: 804960652
+      Rage Faces_37: -618631487
+      Rage Faces_38: -1173865584
+      Rage Faces_39: -1861157358
+      Rage Faces_4: 1395581977
+      Rage Faces_40: -11207267
+      Rage Faces_41: -609355945
+      Rage Faces_42: -1684215972
+      Rage Faces_43: 1591018832
+      Rage Faces_44: 853673535
+      Rage Faces_45: 225657960
+      Rage Faces_46: 2019069632
+      Rage Faces_47: -78274160
+      Rage Faces_48: -924260473
+      Rage Faces_49: -1401273275
+      Rage Faces_5: -821081816
+      Rage Faces_50: -124019417
+      Rage Faces_51: -1144056843
+      Rage Faces_52: 646946615
+      Rage Faces_53: -1925101420
+      Rage Faces_54: -339259854
+      Rage Faces_55: 535755069
+      Rage Faces_56: 1327411739
+      Rage Faces_57: 1752082155
+      Rage Faces_58: 119490292
+      Rage Faces_59: -1694510552
+      Rage Faces_6: 1636116930
+      Rage Faces_60: 1403154369
+      Rage Faces_61: -1835845714
+      Rage Faces_62: -382249057
+      Rage Faces_63: -1619000368
+      Rage Faces_64: -1644416288
+      Rage Faces_65: -445489294
+      Rage Faces_66: 963562426
+      Rage Faces_67: -1104263498
+      Rage Faces_68: 11582396
+      Rage Faces_69: -436871016
+      Rage Faces_7: 1335235067
+      Rage Faces_70: -124416697
+      Rage Faces_71: -1948927926
+      Rage Faces_72: -2130087204
+      Rage Faces_73: -1365278567
+      Rage Faces_74: 340621673
+      Rage Faces_75: -1405307154
+      Rage Faces_76: 550270791
+      Rage Faces_77: 821104475
+      Rage Faces_78: 560619605
+      Rage Faces_79: -151377840
+      Rage Faces_8: -2123161951
+      Rage Faces_80: 2108159439
+      Rage Faces_81: -255450507
+      Rage Faces_82: 1516619259
+      Rage Faces_83: 979350553
+      Rage Faces_84: 473936867
+      Rage Faces_85: -937716699
+      Rage Faces_86: 467185480
+      Rage Faces_87: -1124434221
+      Rage Faces_88: -1068100296
+      Rage Faces_89: 1950067992
+      Rage Faces_9: 450261185
+      Rage Faces_90: -1030978923
+      Rage Faces_91: -241582380
+      Rage Faces_92: -1006677194
+      Rage Faces_93: 1514058648
+      Rage Faces_94: -648359464
+      Rage Faces_95: 574304117
+      Rage Faces_96: -394778839
+      Rage Faces_97: 598423006
+      Rage Faces_98: 1758406615
+      Rage Faces_99: -345208189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
